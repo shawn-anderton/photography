@@ -1,0 +1,32 @@
+{
+  "name": "angular-bootstrap-lightbox",
+  "version": "0.3.0",
+  "main": [
+    "dist/angular-bootstrap-lightbox.js",
+    "dist/angular-bootstrap-lightbox.css"
+  ],
+  "ignore": [
+    "src",
+    ".*",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "angular": "^1.2.26",
+    "angular-bootstrap": "^0.11.2",
+    "angular-loading-bar": "^0.6.0",
+    "angular-touch": "^1.2.26",
+    "bootstrap": "^3.2.0"
+  },
+  "homepage": "https://github.com/compact/angular-bootstrap-lightbox",
+  "_release": "0.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.3.0",
+    "commit": "36d022c3ecbfb063e4fa95af454ca506a9ff8a0f"
+  },
+  "_source": "git://github.com/compact/angular-bootstrap-lightbox.git",
+  "_target": "~0.3.0",
+  "_originalSource": "angular-bootstrap-lightbox",
+  "_direct": true
+}
